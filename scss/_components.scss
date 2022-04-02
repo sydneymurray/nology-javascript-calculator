@@ -49,7 +49,7 @@
         .equals{
             background-color: rgb(204, 253, 158);
         }
-        .equals:hover #body .calculator .calculator__h1{
+        .equals:hover .calculator{
             transform: rotate(3600deg) scale(3);
         }
         .clear{

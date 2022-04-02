@@ -55,6 +55,11 @@ function keyPressed(event) {
       displayOperationClicked(myEvent);
       return;
 
+    case "Escape":
+      myEvent.target.innerText = "C";
+      displayOperationClicked(myEvent);
+      return;
+
     default:
       if (myEvent.target.innerText >= "0" && myEvent.target.innerText <= "9") numberClicked(myEvent);
   }
