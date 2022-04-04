@@ -1,8 +1,10 @@
  Introduction
+ ------------------
  This project is a nology challenge to build on online calculator
- Live Site: 
+ Live Site: https://sydneymurray.github.io/nology-javascript-calculator/
  GitHub: https://github.com/sydneymurray/nology-javascript-calculator
 
+ 
  Requirements
  HTML & CSS compatible Web Server
 
